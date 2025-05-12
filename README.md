@@ -136,3 +136,5 @@ export BASE_URL="http://localhost:8080/api"
 export ANTIFRAUD_URL="http://localhost:9090/internal"
 py.test test_01_ping.tavern.yml
 ```
+
+made with ❤️❤️❤️ by @Arlandaren
